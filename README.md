@@ -117,5 +117,6 @@ CODE: backup.php
 4. C:\xampp\php\php.exe
 5. -f C:\xampp\htdocs\aptechurc-fee\backup.php
 6. Ok. 
+![image](https://user-images.githubusercontent.com/81623971/192122615-8469cbeb-3233-4ec5-af77-0547f1006746.png)
 
 You're Done! Enjoy!
