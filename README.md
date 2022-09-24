@@ -105,3 +105,17 @@ Fill and save it.
 
 
 Enjoy!
+
+
+# MySQL Database Auto Backup with PHP
+
+CODE: backup.php
+
+1. Configure database in the code. 
+2. After configuring. 
+3. open Task Scheduler, Create task and on action tab. 
+4. C:\xampp\php\php.exe
+5. -f C:\xampp\htdocs\aptechurc-fee\backup.php
+6. Ok. 
+
+You're Done! Enjoy!
