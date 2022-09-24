@@ -1,5 +1,4 @@
-# Portal--project-Installation
-Create User/Privileges in MySQL.
+# Create User/Privileges in MySQL.
 
 1. Go to phpMyAdmin and then select database from sidebar.
 2. Click on Privileges from top bar.
@@ -9,7 +8,7 @@ Create User/Privileges in MySQL.
 Enjoy!
 
 
-MySQL Backup in steps
+# MySQL Backup in steps
 
 1. Go to folder C:\xampp\mysql\bin
 2. Create new file with extension of .bat
@@ -44,7 +43,7 @@ Enjoy!
 
 
 
-How to run automatically Xampp in background without signing in to pc.
+# How to run automatically Xampp in background without signing in to pc.
 
 1. Open xampp as Administrator:
  ![image](https://user-images.githubusercontent.com/81623971/192119261-db1a6575-2684-4294-82e1-2b686f96966b.png)
